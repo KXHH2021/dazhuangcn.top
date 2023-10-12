@@ -1,6 +1,3 @@
-# hexo robots.txt
 User-agent: *
 Allow: /
-
-Sitemap: https://qmike.top/sitemap.xml
-Sitemap: https://qmike.top/baidusitemap.xml
+Sitemap: https://www.dazhuangcn.top/sitemap.xml
