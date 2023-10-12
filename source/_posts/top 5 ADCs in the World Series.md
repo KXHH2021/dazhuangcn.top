@@ -24,7 +24,7 @@ This past year, BLG achieved the best results in the team's history. In the LPL 
 
 One of the key contributors to this success was Elk Zhao Jiahao. Although he had many ups and downs, Elk was able to prove unstoppable when he reached his peak, and Elk was named to the LPL 2nd XI in both the spring and summer seasons. However, he still has room for improvement, especially against opponents like Ruler and Gala, who he has struggled with on numerous occasions.
 
-![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/fc502352-fe68-431d-b7ce-b79ad967b939)
+![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/c456ee7f-f254-40b3-b6f8-b710a29f65af)
 
 ## TOP4: KT.Aiming
 
@@ -40,7 +40,7 @@ Gala Chen Wei has been recognised as a super carry style ADC and has been perfor
 
 In the summer, he moved to LNG and once again showed his consistency as a bottom laner, leading the team to a runner-up finish. With the return of Kasha, his excellent Kasha skills were especially noteworthy as he picked up two five-kills.Worlds 2023 will be GALA's first time on the international stage as a team other than RNG. Can he surpass what he achieved with his last team?
 
-![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/d40102a6-296b-4a13-90af-55c0f13fd18e)
+![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/26d15d40-1cdf-4490-8354-5901a1ffb8ec)
 
 ## TOP2: Gen.G Peyz
 
@@ -56,4 +56,5 @@ It's safe to say that Ruler tops this list.Ruler's move to JDG got off to an eye
 
 Despite showing weaknesses at the beginning of the summer season, Ruler's excellent play allowed him to win the title once again.Ruler was named to the LPL One Posse in both the spring and summer. In addition, he won all the tournaments he participated in during 2023, including the Asian Games. This year, Ruler had an impressive year, characterised by grand slams, as he topped Inven Global's ADC player rankings.
 
-![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/db726611-1b5f-4c85-8fd4-4a617f34b818)
+![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/9fd7f132-4e5f-4f09-a6fa-2bc1d0eb1a7d)
+
