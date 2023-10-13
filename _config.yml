@@ -106,15 +106,29 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
+sitemap:
+  path: sitemap.xml
+  rel: true
 
+  feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: false
+
+nofollow:
+  enable: true
+  field: site
+
+## Themes: https://hexo.io/themes/
+theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-
-sitemap:
-  path: sitemap.xml
 
 # abbrlink config
 abbrlink:
