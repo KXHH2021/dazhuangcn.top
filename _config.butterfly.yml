@@ -559,7 +559,8 @@ messenger:
   lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
 
 # Analysis
-# --------------------------------------
+# https://analytics.google.com/analytics/web/
+google_analytics: G-QY8LV3706G
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
