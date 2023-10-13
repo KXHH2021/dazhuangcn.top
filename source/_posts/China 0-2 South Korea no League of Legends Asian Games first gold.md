@@ -19,7 +19,6 @@ From the moment the grouping results came out, the "China-Korea duel" that shoul
 ![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/4558492e-61ed-4978-b365-419fcb9a54af)
 Ruler and Kanavi's players are all in action, and the Korean team is winning the battle for resources in the wild area.
 
-
 This year's Hangzhou Asian Games saw e-sports become an official sport, and both the Chinese team, as hosts, and the Korean team, which is the favorite to win the title, attached great importance to it.
 
 From the deployment of troops, first of all, the Chinese team, in June this year, the League of Legends Chinese team announced the final list of six people, six people are Bai Jiahao (ID: 369), Chen Zebin (ID: Bin), Tian Ye (ID: Meiko), Yu Wenbo (ID: Jackeylove), Zhao Lijie (ID: Jiejie) and Zhuo Ding (ID: Knight), the lineup configuration is very good: Knight), the lineup configuration is very luxurious. However, due to the health problems of Bai Jiahao and Yu Wenbo, they withdrew from this year's Asian Games and were replaced by Peng Lixun (ID: Xun) and Zhao Jiahao (ID: ELK). (Extended reading: impact 6 gold! Hangzhou Asian Games e-sports program Chinese army "into a group")
