@@ -108,8 +108,6 @@ ignore:
 theme: butterfly
 sitemap:
   path: sitemap.xml
-  rel: true
-
 
 # abbrlink config
 abbrlink:
