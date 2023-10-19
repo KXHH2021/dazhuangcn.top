@@ -11,7 +11,7 @@ tags:
   - S13
   - Players
 description: League of Legendslaunches new mode:Players choose heroes in advance, directly into the game, do not need to grab the position again
-cover: ![image.png](https://s2.loli.net/2023/10/20/OrPgznDdcNjVfbs.png)
+cover: https://s2.loli.net/2023/10/20/OrPgznDdcNjVfbs.png
 ---
 ![image.png](https://s2.loli.net/2023/10/20/4SlLdzED1ifwxFr.png)
 ## LOL launches new mode
