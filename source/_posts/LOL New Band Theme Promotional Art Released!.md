@@ -2,9 +2,7 @@
 title: LOL New Band Theme Promotional Art Released!
 date: 2023-10-17 20:00:00
 categories:
-  - Game Info
   - League of Legends
-  - LOL
 tags:
   - Cain
   - League of Legends
