@@ -3,7 +3,6 @@ title: An article to read the 2023 League of Legends Global Finals Swiss round s
 date: 2023-10-16 23:00:00
 categories:
   - Game Info
-  - LOL
 tags:
   - LOL S13 
   - League of Legends
