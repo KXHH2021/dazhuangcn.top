@@ -2,8 +2,7 @@
 title: LOL Skin List Update
 date: 2023-10-14 14:00:00
 categories:
-  - [LOL]
-  - [League of Legends]
+  - League of Legends
 tags:
   - Akali
   - League of Legends
