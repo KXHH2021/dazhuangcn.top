@@ -2,8 +2,6 @@
 title: LOL launches new mode
 date: 2023-10-15 11:00:00
 categories:
-  - Game Info
-  - League of Legends
   - LOL
 tags:
   - LOL launches new mode
