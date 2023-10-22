@@ -46,7 +46,7 @@ favicon: https://s2.loli.net/2023/10/23/7ylpsuIQgVfDBPi.png
 # Avatar (頭像)
 avatar:
   img: https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310121029927.png
-  effect: false
+  effect: true
 
 # Disable all banner image(如果不要显示顶部图，可直接配置 disable_top_img: true)
 disable_top_img: false
