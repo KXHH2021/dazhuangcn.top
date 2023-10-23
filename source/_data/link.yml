@@ -1,5 +1,5 @@
-- class_name: 友情链接
-  class_desc: 有朋自网线来，不亦乐乎
+- class_name: Friends
+  class_desc: How happy we are, To meet friends from afar!有朋自网线来，不亦乐乎!
   link_list:
   - name: "kxhh的博客"
     link: "https://cfra.top"
