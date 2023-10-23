@@ -29,6 +29,6 @@ Self-confidence is one of the core beliefs of my gaming practice. Believing in y
 
 If you have any questions or suggestions, please feel free to contact me. You can find me in the following ways:
 
-- Email: yadagangya@gmail.com
+- Email: loveLOL@gmail.com
 
 Thank you for visiting my website!
