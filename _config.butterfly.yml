@@ -916,10 +916,10 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
-      - <meta name="monetag" content="c637df8e8efe556f388cae74f7e7b80b">
+    # - <meta name="monetag" content="c637df8e8efe556f388cae74f7e7b80b">
   bottom:
     - <script src="xxxx"></script>
-    - <script src="https://alwingulla.com/88/tag.min.js" data-zone="17613" async data-cfasync="false"></script>
+    # - <script src="https://alwingulla.com/88/tag.min.js" data-zone="17613" async data-cfasync="false"></script>
 
 # CDN
 # Don't modify the following settings unless you know how they work
