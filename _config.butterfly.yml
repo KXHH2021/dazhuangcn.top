@@ -89,14 +89,7 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310051413637.jpg
-    - https://s2.loli.net/2023/07/17/9JQuLefqURI7DYi.png
-    - https://s2.loli.net/2023/07/17/qkCs3dgYblAB7ar.png
-    - https://s2.loli.net/2023/07/17/XvsoykKqNSQbBUj.png
-    - https://s2.loli.net/2023/07/17/mnMagitJQlyNfHk.png
-    - https://s2.loli.net/2023/07/17/UShtHMTzDNAblBV.png
-    - https://s2.loli.net/2023/07/17/sHCFR6fanbPMwpD.png
-    - https://s2.loli.net/2023/07/17/tjNbDh17cTQiJMB.png
-    - https://s2.loli.net/2023/07/17/eS6iXfpscLyUhVC.png
+
 
 
 # Replace Broken Images (替換無法顯示的圖片)
