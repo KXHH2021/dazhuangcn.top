@@ -9,7 +9,7 @@ tags:
   - Ragnarok:Gollum
   - Supergiant
 description: I have two works to thank for this piece of ancient Greek mythology. An anime called Legend of Olympus, which probably quite a few of you have seen
-cover: https://s2.loli.net/2023/10/27/5hxZKEtMfn3mDRg.png）
+cover: https://s2.loli.net/2023/10/27/5hxZKEtMfn3mDRg.png
 ---
 
 I have two works to thank for this piece of ancient Greek mythology. An anime called Legend of Olympus, which probably quite a few of you have seen.
