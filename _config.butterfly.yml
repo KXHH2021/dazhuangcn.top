@@ -647,7 +647,7 @@ tag_ui: # 留空或 index
 background: 
 
 # Footer Background
-footer_bg: true
+footer_bg: false
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
@@ -666,7 +666,7 @@ activate_power_mode:
   enable: true
   colorful: true # open particle animation (冒光特效)
   shake: true # open shake (抖動特效)
-  mobile: false
+  mobile: true
 
 # Background effects (背景特效)
 # --------------------------------------
@@ -704,7 +704,7 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
+  enable: false
   mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
@@ -851,7 +851,7 @@ aplayerInject:
 # position 彈窗位置
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
 snackbar:
-  enable: true
+  enable: false
   position: bottom-left
   bg_light: '#49b1f5' # The background color of Toast Notification in light mode
   bg_dark: '#1f1f1f' # The background color of Toast Notification in dark mode
