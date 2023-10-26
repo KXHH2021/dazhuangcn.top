@@ -911,7 +911,7 @@ inject:
     # - <link rel="stylesheet" href="/xxx.css">
    
   bottom:
-    - <script src="xxxx"></script>
+    # - <script src="xxxx"></script>
 
 
 # CDN
