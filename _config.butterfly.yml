@@ -210,7 +210,7 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2023
+    since: 2022
   custom_text: 
   copyright: true # Copyright of theme and framework
 
@@ -279,7 +279,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: false
-  publish_date: 2023/07/17 00:00:00
+  publish_date: 2022/07/17 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
