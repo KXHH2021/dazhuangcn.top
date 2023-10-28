@@ -908,9 +908,11 @@ inject:
   head:
     - <link rel="stylesheet" href="/custom.css">
     # - <link rel="stylesheet" href="/xxx.css">
-   
+  
   bottom:
     # - <script src="xxxx"></script>
+    - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1722940659521595"
+     crossorigin="anonymous"></script>
 
 
 # CDN
