@@ -54,3 +54,5 @@ As a whole, the Swiss system includes both "round-robin" and "elimination" setti
 
 After the Swiss round, it was time for the traditional BO5 single-elimination tournament, which was divided into three parts: quarterfinals, semifinals, and finals. For this stage of the tournament system, every partner who has watched the S-Series or even watched e-sports matches is probably very familiar with it, so I don't need to say anything more, but I just hope that more of our LPL teams can make it to the end.
 
+## https://www.leagueoflegends.com/
+![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/9780d29d-bd07-4294-9210-469c4d614580)
