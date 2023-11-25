@@ -27,6 +27,9 @@ Earlier this month, Xbox owners reported that a full-screen advertisement for Ca
 
 ![image.png](https://s2.loli.net/2023/11/25/NXcvwhF2Of4l1yV.png)
 
+![image](https://github.com/KXHH2021/dazhuangcn.top/assets/88917933/700f8413-bb61-45ea-b80b-cf1e6e3ee590)
+# >>>>>>>https://www.ubisoft.com/en-gb/game/assassins-creed/mirage<<<<<<<
+
 
 ## Japan's Ministry of Land, Infrastructure, Transport and Tourism replicates dam project in My World
 
@@ -52,6 +55,8 @@ The Watermelon Game was originally a built-in mini-game for the PopIn Aladdin pr
 In order to celebrate the achievements of the "watermelon game", the developer Aladdin X decided to launch the game in the instant messaging software LINE various fruit expression animation stickers. The set of 16 emoji stickers can be purchased by LINE users for 250 yen or 100 LINE coins from the official online store or directly from the LINE APP app.
 
 ![image.png](https://s2.loli.net/2023/11/25/nLVDsXStgFj5OZw.png)
+
+
 
 ![image.png](https://s2.loli.net/2023/11/25/H5xdCfXGw83lFO9.png)
 
