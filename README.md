@@ -11,10 +11,3 @@
     description: 描述
     cover: 封面图片
     ---
-
-
-
-
-
-
-![image.png](https://s2.loli.net/2023/11/25/H5xdCfXGw83lFO9.png)
