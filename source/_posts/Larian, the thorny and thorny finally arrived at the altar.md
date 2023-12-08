@@ -17,6 +17,7 @@ tags:
 description: At the beginning of all great adventure stories, our protagonist always seems so insignificant.
 cover: https://s2.loli.net/2023/12/08/Z6SGuneaofRqApV.png
 ---
+
 ![image.png](https://s2.loli.net/2023/12/08/Z6SGuneaofRqApV.png)
 
 In 1997, in a small electronic equipment store in Belgium, Swen Vincke, or "Swen" as players call him, and a few friends who also love video games created a game team belonging to them, and since then began the "stubborn" journey of Larian Studios. Since then, Larian Studios has been on an "obsessive" journey.
