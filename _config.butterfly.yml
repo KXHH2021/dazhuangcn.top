@@ -911,9 +911,8 @@ inject:
   
   bottom:
     # - <script src="xxxx"></script>
-    - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
-     crossorigin="anonymous"></script>
-
+    # - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
+  
 
 # CDN
 # Don't modify the following settings unless you know how they work
