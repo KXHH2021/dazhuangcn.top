@@ -603,11 +603,7 @@ google_adsense:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-   aside: 
-   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
-     crossorigin="anonymous"></script>
-<!-- aside -->
-<ins class="adsbygoogle"
+   aside: <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5281252809215100"
      data-ad-slot="2233695959"
@@ -616,11 +612,7 @@ google_adsense:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-   post: 
-   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
-     crossorigin="anonymous"></script>
-<!-- post -->
-<ins class="adsbygoogle"
+   post: <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5281252809215100"
      data-ad-slot="7471626482"
