@@ -591,10 +591,7 @@ google_adsense:
 
 # Insert ads manually (手動插入廣告)
  ad:
-   index: 
-   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
+   index: <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="fluid"
      data-ad-layout-key="-ef+6k-30-ac+ty"
