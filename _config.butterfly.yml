@@ -591,7 +591,8 @@ google_adsense:
 
 # Insert ads manually (手動插入廣告)
  ad:
-   index: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
+   index: 
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -602,7 +603,8 @@ google_adsense:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-   aside: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
+   aside: 
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
      crossorigin="anonymous"></script>
 <!-- aside -->
 <ins class="adsbygoogle"
@@ -614,7 +616,8 @@ google_adsense:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-   post: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
+   post: 
+   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
      crossorigin="anonymous"></script>
 <!-- post -->
 <ins class="adsbygoogle"
